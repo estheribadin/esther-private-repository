@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://35.183.12.114:8081/repository/google_map-release/</url>
+	      <url>http://15.223.0.226:8081/repository/google-fe-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark http://Technologies Snapshot Nexus Repository/ </name>
-		    <url>http://35.183.12.114:8081/repository/google_map-SNAPSHOP/</url>
+		    <url>http://15.223.0.226:8081/repository/google-fe-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
