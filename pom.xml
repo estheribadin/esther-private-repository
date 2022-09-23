@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>google_map</finalName>
+		<finalName>google_doc</finalName>
 		
 		<plugins>
 			<plugin>
